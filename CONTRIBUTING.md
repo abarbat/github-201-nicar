@@ -1,3 +1,5 @@
 # Contribution Guidelines
 
-TBD
+- Stay focused
+- Be nice
+- Be polite
